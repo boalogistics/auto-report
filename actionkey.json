@@ -1,0 +1,21 @@
+{
+    "Total Loads": "sLoads",
+	"Total Quotes": "sQuotes",
+	"Total Booked": "sBooked",
+	"Shipments Picked Up": "sPickup",
+	"Shipments Delivered": "sDelivered",
+	"Orders Entered": "enter",
+	"Carrier Selected": "carrierselect",
+	"Dispatch Processed": "dispatch",
+	"Pickup Confirmed": "pickup",
+	"QA Notes Entered": "qanotes",
+	"Sales Notes Entered": "salesnotes",
+	"Delivery Confirmed": "deliver",
+	"Invoice Created": "invoice",
+	"Marked OS &amp; D": "osd",
+	"Claims Requested": "claims",
+	"Carrier Cost Updated": "costupdate",
+	"Customer Charges Updated": "billedUpdate",
+	"AP Invoices Received": "apstandard",
+    "Notes Added": "notesAdded"
+}
