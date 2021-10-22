@@ -1,0 +1,38 @@
+{
+    "Angie": 
+    {
+        "clients": [933, 1244, 1385],
+        "email": "angelica@boalogistics.com",
+        "sv": "Edgar"
+    },
+    "Edgar": 
+    {
+        "clients": [1283, 1374, 1464],
+        "email": "edgar@boalogistics.com",
+        "sv": "n/a"
+    },
+    "Julie": 
+    {
+        "clients": [766, 1199, 1232, 1432, 1495, 1528],
+        "email": "julie@boalogistics.com",
+        "sv": "n/a"
+    },
+    "Miguel": 
+    {
+        "clients": [817, 921, 1067, 1364, 1489, 1540, 1607],
+        "email": "miguel@boalogistics.com",
+        "sv": "Julie"
+    },
+    "Omar": 
+    {
+        "clients": [792, 1109, 1110, 1114, 1417, 1011, 1133, 1148, 1242, 1403, 1548, 1584, 1598],
+        "email": "omar@boalogistics.com",
+        "sv": "n/a"
+    },
+    "Ruben": 
+    {
+        "clients": [611, 890, 1124, 1228, 1301, 1532, 1563],
+        "email": "rrivera@boalogistics.com",
+        "sv": "Edgar"
+    }
+}
